@@ -2,7 +2,7 @@
     "name": "proxy",
     "version": "1.0.0",
     "main": "server.js",
-    "author": "ljh",
+    "author": "ihupoo",
     "license": "MIT",
     "devDependencies": {
         "express": "^4.16.2",
